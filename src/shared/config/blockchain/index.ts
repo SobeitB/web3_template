@@ -1,1 +1,1 @@
-export { configWagmi } from './init';
+export { configWagmi, chains } from './wagmi';

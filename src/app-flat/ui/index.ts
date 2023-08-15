@@ -1,1 +1,1 @@
-export { AppWrapper } from "./AppWrapper";
+export * as style from './AppWrapper.module.scss';

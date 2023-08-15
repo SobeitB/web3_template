@@ -1,7 +1,7 @@
 {
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorCustomizations": {
-      "editor.selectionBackground": "#02768d"
+      "editor.selectionBackground": "#aa1717",
     },
     "editor.smoothScrolling": true,
     "editor.minimap.enabled": false,
